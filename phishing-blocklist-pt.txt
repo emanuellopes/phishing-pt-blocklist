@@ -1,0 +1,2 @@
+0.0.0.0 eurobicabanca-pt.cc
+0.0.0.0 adanca-pt.pro
